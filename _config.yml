@@ -39,8 +39,8 @@ social:
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
   - lines: 
-    - San Francisco,
-    - Zulia,
+    - Municipio, San Francisco,
+    - Estado, Zulia,
     - Venezuela.
 email: contacto@nixon.xyz
 personal: nixonmorillo@gmail.com
