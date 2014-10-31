@@ -26,8 +26,8 @@ colors:  #in hex code if not noted else
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: behance
-    url: http://www.behance.net/nixonmoril9377
+  - title: github
+    url: http://github.com/nixonmorillo
   - title: facebook
     url: http://www.facebook.com/nixonmorillo/
   - title: twitter
