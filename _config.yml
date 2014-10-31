@@ -27,12 +27,12 @@ colors:  #in hex code if not noted else
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: facebook
-    url: www.facebook.com/nixonmorillo
+    url: http://www.facebook.com/nixonmorillo/
   - title: twitter
-    url: www.twitter.com/nixonmorillo
+    url: http://www.twitter.com/nixonmorillo/
   - title: linkedin
-    url: http://ve.linkedin.com/in/nixonmorillo
-  - title: googleplus
+    url: http://ve.linkedin.com/in/nixonmorillo/
+  - title: google-plus
     url: https://plus.google.com/+NixonMorillo/
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
