@@ -39,11 +39,11 @@ social:
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
   - lines: 
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
+    - San Francisco,
+    - Zulia,
+    - Venezuela.
 email: contacto@nixon.xyz
-otro: nixonmorillo@gmail.com
+tel: nixonmorillo@gmail.com
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
     
