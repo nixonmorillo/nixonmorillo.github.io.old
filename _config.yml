@@ -26,25 +26,18 @@ colors:  #in hex code if not noted else
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
   - title: facebook
-    url:
+    url: www.facebook.com/nixonmorillo
   - title: twitter
-    url: 
-  - title: instagram
-    url: 
-  - title: tumblr
-    url: 
+    url: www.twitter.com/nixonmorillo
+  - title: linkedin
+    url: http://ve.linkedin.com/in/nixonmorillo
+  - title: googleplus
+    url: https://plus.google.com/+NixonMorillo/
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
-address:
-  - lines: 
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+
+email: contacto@nixon.xyz
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
