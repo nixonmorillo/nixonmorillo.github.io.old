@@ -44,7 +44,7 @@
 
 (function () {
 			
-	var numCoins = 5,
+	var numCoins = 7,
 		score = 0,
 	    coins = [],
 		canvas;			
