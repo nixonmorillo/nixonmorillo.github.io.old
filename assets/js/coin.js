@@ -232,8 +232,8 @@
 	
 	// Get canvas
 	canvas = document.getElementById("coinTapGame");
-	canvas.width = 460;
-	canvas.height = 230;
+	canvas.width = 230;
+	canvas.height = 115;
 	
 	for (i = 0; i < numCoins; i += 1) {
 	
