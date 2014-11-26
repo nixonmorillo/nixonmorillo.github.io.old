@@ -159,7 +159,7 @@
 		coins[coinIndex].scaleRatio = Math.random() * 0.5 + 0.5;
 		
 		// Load sprite sheet
-		coinImg.src = "../img/coin-sprite-animation.png";
+		coinImg.src = "http://www.redeyesmedia.com/cointap/images/coin-sprite-animation.png";
 	}
 	
 	function getElementPosition (element) {
