@@ -1,0 +1,4 @@
+# 301 redirect to domain from 'www.'
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www\.(.*)$
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]

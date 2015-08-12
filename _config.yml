@@ -1,0 +1,42 @@
+# Site settings
+title: "#!/nixon/xyz"
+email: contacto@nixon.xyz
+url: http://nixon.xyz/
+description: "HI, I'm Nixon Morillo, and this is my webSite, i work at linux like Sysadmin, DevOps and Web Developer"
+keywords: "nixon,nixonmorillo,morillo,sysadmin, devops, web, web developer,php, python,sql,mysql,postgresql,sysadmin,devops,developer, laravel,wordpress,django, maracaibo,zulia,nixonxyz, programador, linux, html, javascript,js, freelance"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: D70000 #80B3FF
+  secondary: 404040 #FD6E8A
+  secondary-dark: 233d1a #A2122F
+
+# Footer settings
+footer:
+  copyright: Ing. Nixon Morillo
+  location: Bunker
+  social: Social Networks
+  credits: Google +
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/nixonmorillo/
+  - title: facebook
+    url: http://www.facebook.com/nixonmorillo/
+  - title: twitter
+    url: http://www.twitter.com/nixonmorillo/
+  - title: linkedin
+    url: http://ve.linkedin.com/in/nixonmorillo/
+  - title: google-plus
+    url: http://plus.google.com/+NixonMorillo/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: San Francisco, 
+  - line: Zulia, 
+  - line: Venezuela!
+
+# Build settings
+markdown: kramdown
+permalink: pretty

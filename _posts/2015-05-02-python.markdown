@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2015-05-02
+img: python.png
+alt: image-alt
+project-date: January 2015
+client: San Francisco's Mayoralty, Snipets 
+category: SysAdmin
+description: Working like SysAdmin, and Developer, i have to make snipets with cron jobs, here are two, the <a href="https://sellfy.com/p/8Q9P/jV3VZ/">First</a> send a html email from a table in PostgreSql, and the <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Second</a> Make a PostgreSQL backup, upload the files in a server by SFTP, check the consistence in the files and send a email with the log to the Sysadmin. 
+---
